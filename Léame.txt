@@ -1,0 +1,2 @@
+El archivo CriptUN.mlapp es el que contiene el código de la aplicación principal.
+Es necesario que todos estos archivos estén dentro del mismo directorio para que la aplicación funcione correctamente.
